@@ -10,7 +10,7 @@ export default function Main() {
 
   return (
     <div>
-      {/* নেভিগেশন স্টেট অনুযায়ী ভিউ রেন্ডার করা হচ্ছে */}
+     
       <div style={{ paddingBottom: "60px" }}>
         {value === 0 ? <QR_Gen /> : <QR_scan />}
       </div>
