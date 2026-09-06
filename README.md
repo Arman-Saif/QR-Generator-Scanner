@@ -29,7 +29,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine. You
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+git clone [https://github.com/Arman-Saif/QR-Generator-Scanner.git](https://github.com/Arman-Saif/QR-Generator-Scanner.git)
 cd your-repo-name
 
 2. Install dependencies
